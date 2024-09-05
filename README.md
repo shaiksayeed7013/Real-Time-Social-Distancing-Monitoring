@@ -1,7 +1,7 @@
 # Real-Time-Social-Distancing-Monitoring
 # social-distance-detector
 
-![Social_distance](https://github.com/datamagic2020/social-distance-detector/blob/master/social%20distance%20design.png)
+![Social_distance](https://github.com/shaiksayeed7013/Real-Time-Social-Distancing-Monitoring/blob/main/social%20distance%20design.png)
 
 This code will help you to do social distance detectioni in this COVID-19 situation at your premise. This is very basic code, feel free to checkout and do any improvisations.
 
